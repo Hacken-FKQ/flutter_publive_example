@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   #  PubLive Flutter SDK
-  flutter_publive: ^2.1.2
+  flutter_publive: ^3.1.8
   permission_handler: 8.3.0
 
 
